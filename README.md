@@ -1,5 +1,6 @@
 # BUILDING-A-WEBSITE-FOR-ONLINE-STATIC-MODEL
 ABSTRACT
+
 Context: In today's booming era of information technology, e-commerce has 
 established itself as an indispensable trend in modern business. Particularly, in specialized 
 sectors like the static model industry, there is a growing demand for effective online 
