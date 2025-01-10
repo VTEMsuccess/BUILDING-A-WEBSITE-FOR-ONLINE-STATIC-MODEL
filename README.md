@@ -1,4 +1,7 @@
 # BUILDING-A-WEBSITE-FOR-ONLINE-STATIC-MODEL
+
+Hello! If you are reading this, have a greatfull. 
+
 ABSTRACT
 
 Context: In today's booming era of information technology, e-commerce has 
