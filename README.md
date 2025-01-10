@@ -39,3 +39,5 @@ for online static model" not only makes shopping more seamless, efficient, and e
 for users but also provides a comprehensive solution for customer interaction. This project 
 is considered a potential tool with scalability, contributing to enhanced business efficiency 
 in the rapidly evolving e-commerce landscape 
+
+Link demo project: https://drive.google.com/file/d/14Ce9_EFokZMvCnX7VvctSrFtm7-MwM4K/view?usp=drive_link
